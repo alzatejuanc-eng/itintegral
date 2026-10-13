@@ -4,3 +4,4 @@ privado/
 *clave*.json
 *clave*.sql
 banco_completo.json
+__pycache__/
