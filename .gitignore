@@ -1,0 +1,6 @@
+# Material confidencial: nunca al repositorio
+privado/
+*.docx
+*clave*.json
+*clave*.sql
+banco_completo.json
